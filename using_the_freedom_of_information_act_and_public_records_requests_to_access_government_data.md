@@ -45,17 +45,16 @@
 
 *Agency address*
 
-</br>
-</br>
+<br>
+
 *Date*
 
-</br>
-</br>
+<br>
 
 *To Whom It May Concern:* 
 
-</br>
-</br>
+
+<br>
 
 *This is a request under the [Freedom of Information Act or relevant state statute name -- * use the full statute name ].* 
 </br>
@@ -73,11 +72,11 @@ I hereby request the following records:
 
 *Thank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within [whatever time window the jurisdiction the agency is in allows -- at the federal level, it's 20 business days, and it varies state-by-state], as the statute requires.*
 
-</br>
+<br>
 
 *Sincerely,*
 
-</br>
+<br>
 
 *Your name*
 
@@ -85,6 +84,7 @@ I hereby request the following records:
 *Your email address*</br>
 *Your phone number*</br>
 
+<br>
 
 ### Some example requests 
 
