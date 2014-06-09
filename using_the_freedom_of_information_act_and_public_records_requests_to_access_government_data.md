@@ -59,7 +59,7 @@
 *This is a request under the [Freedom of Information Act or relevant state statute name -- * use the full statute name ].* 
 </br>
 
-I hereby request the following records: 
+*I hereby request the following records:*
 
 [ * ***Describe the dataset or documents you are seeking with as much specificity as you can. Generally, you either need to provide the specific records/data you are after, or else describe the circumstances that led to their creation. The basic standard is that an individual familiar with the agency's operations and records system ought to be able to conduct a reasonable search. No goose chases! This is a good example of a targeted data request: http://bit.ly/1prYlzj*** *] 
 
@@ -97,18 +97,20 @@ Some good FOIA requests:
 	* [State Department contracts with Booz Allen Hamilton](https://www.muckrock.com/foi/united-states-of-america-10/booz-allen-hamilton-contracts-3365/) 
 	* [Reports of ivory seizure in New England](https://www.muckrock.com/foi/united-states-of-america-10/reports-of-ivory-seizure-in-new-england-10357/)
 	* [FAA drone flight logs](https://www.muckrock.com/foi/united-states-of-america-10/faa-drone-flight-logs-2460/)
+	* [National Response Center reports 1983 - 2012](https://www.muckrock.com/foi/united-states-of-america-10/nrc-datasets-1983-2012-6057/)
+	* [Air Force Inspector General closed investigations list](https://www.muckrock.com/foi/united-states-of-america-10/air-force-ig-investigations-list-8981/)
+	* [Federal Motor Carrier Safety Administration violations database](https://www.muckrock.com/foi/united-states-of-america-10/fmcsa-violations-database-3790/)
 <br>
 <br>
 * State and local 
-	* NY trademarks
-	* NYPD subject matter list
-	* Lafayette payroll
-	* MA marijuana dispensary licenses
-	* Fung Wah (MA) 
+	* [Boston Police Department license plate reader data](https://www.muckrock.com/foi/boston-3/boston-police-alpr-data-2481/)
+	* [New York State trademarks list](https://www.muckrock.com/foi/new-york-16/list-of-all-trademarks-held-by-the-state-of-new-york-6686/)
+	* [Massachusetts marijuana dispensary licenses](https://www.muckrock.com/foi/massachusetts-1/ma-marijuana-dispensary-applications-10503/)
+	* [Fung Wah inspection records](https://www.muckrock.com/foi/massachusetts-1/fung-wah-shutdown-ma-public-utilities-3179/)
 
 <br>
 <br>
 
-### Resources and tips
+### Resources and tips -- I will update more later!
 
-https://www.muckrock.com/news/archives/2014/mar/18/foia-how-to-standard-forms-ivory/
+<https://www.muckrock.com/news/archives/2014/mar/18/foia-how-to-standard-forms-ivory/>
