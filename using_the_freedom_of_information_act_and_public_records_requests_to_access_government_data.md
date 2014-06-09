@@ -34,7 +34,7 @@
 
 *Experiment with phrasing to find a formula that works consistently for you! At bare minimum, include:*
 
-* *agency name and **specific address,** especially if sending by mail*
+* *agency name and specific address, especially if sending by mail*
 * *your name and contact information*
 * *a specific invocation of the relevant records statute*
 * *a specific description of the records/data you're after*
