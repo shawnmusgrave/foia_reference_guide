@@ -3,6 +3,8 @@
 
 ***You can use the federal Freedom of Information Act and similar state statutes to obtain official datasets, or to request documents that can be mined for data. Below is  template language to incorporate into your own requests, specific tips and resources for requesting datasets and some example requests.***
 
+***THIS IS A LIVING DOCUMENT.***
+
 </br>
 </br>
 
