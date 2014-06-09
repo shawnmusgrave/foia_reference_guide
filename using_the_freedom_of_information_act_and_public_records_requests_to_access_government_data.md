@@ -39,19 +39,18 @@
 
 --
 
-[ Agency name, Attn: Records Office, FOIA Office, Press Office, General Counsel, etc ]</br>
-[ Agency address ]
+*Agency name*</br>
+*Attn: Records Office, FOIA Office, Press Office, General Counsel, etc*</br>
+*Agency address*</br>
+</br>
+</br>
+Date
 </br>
 </br>
 </br>
-[Date] 
-</br>
-</br>
-</br>
+
 To Whom It May Concern: 
-</br>
-</br>
-</br>
+
 This is a request under the [Freedom of Information Act or relevant state statute name -- * use the full statute name ]. 
 </br>
 
@@ -77,56 +76,6 @@ Sincerely,
 [Your email address]</br>
 [Your phone number]</br>
 
-
-
-> [Agency name, Attn: Records Office, FOIA Office, Press Office, General Counsel, etc] </br>
-> [Agency address]
-> </br>
-> </br>
-> </br>
-> [Date]
-> </br>
-> </br>		
->To Whom It May Concern:
-> </br>
-> </br>
-> </br>
->This is a request under the [Freedom of Information Act or relevant state statute name -- * use the full statute name *].
-> </br>
-> </br>
-> </br>
-> I hereby request the following records:
-> </br>
-> </br>
-> </br>
-> [ * Describe the dataset or documents you are seeking with as much specificity as you can. Generally, you either need to provide the specific records/data you are after, or else describe the circumstances that led to their creation. The basic standard is that an individual familiar with the agency's operations and records system ought to be able to conduct a reasonable search. No goose chases! This is a good example of a targeted data request: http://bit.ly/1prYlzj *]
-> </br>
-> </br>
-> </br>
-> I also request that, if appropriate, fees be waived as I believe this request is in the public interest. [ * Add relevant explanation of your role as a journalist, researcher, etc. At the federal level, journalists and researchers get a considerable break on FOIA fees, and many agencies at the state and local levels follow suit. There is no guarantee that all fees will be waived, but it never hurts to ask! *]
-> </br>
-> </br>
-> </br>	
-> In the event that fees cannot be waived, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.
-> </br>
-> </br>
-> </br>
-> Thank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within [whatever time window the jurisdiction the agency is in allows -- at the federal level, it's 20 business days, and it varies state-by-state], as the statute requires.
-> </br>
-> </br>
-> </br>
-> Sincerely,
-> </br>
-> </br>
-> [Your name]
-> </br>
-> </br>
-> [Your return address]</br>
-> [Your email address]</br>
-> [Your phone number]
-
-
-</br>
 
 ### Some example requests 
 
