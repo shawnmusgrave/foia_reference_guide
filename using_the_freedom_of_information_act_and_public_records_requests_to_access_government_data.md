@@ -58,7 +58,7 @@
 
 <br>
 
-*This is a request under the [ \* **Freedom of Information Act or relevant state statute name -- \* use the full statute name** ] .* 
+*This is a request under the [ **Freedom of Information Act or relevant state statute name -- use the full statute name** ] .* 
 </br>
 
 *I hereby request the following records:*
